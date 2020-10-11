@@ -25,6 +25,6 @@ The timer will start as you press the start button and will continue until you p
 
 ## My notes
 
-I found this assignment very challenging. But I learned a lot specialy in javascrip and bootstrip and am happy with the result.  It can be many changes and improvment on quiz concept but will be on later stage.
+I found this assignment challenging. But I learned a lot specially in JavaScript and bootstrap and I am happy with the result.  It can be many changes and improvement on quiz concept but will be doing on latter stage.
 
 Thanks
